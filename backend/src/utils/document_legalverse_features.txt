@@ -1,0 +1,40 @@
+Features
+3x faster Discovery and Response
+Organize, Prepare and Produce
+Instead of your legal team manually collecting, organizing, reviewing and preparing documents, Legalverse provides a modern solution that increases the accuracy and capacity of this process.
+Reliably Save Time and Money
+For medium-sized document requests, Legalverse saves legal teams over $50,000 and innumerable amounts of time. Legalverse enables legal teams of all sizes to realize the full potential of their resources.
+Increase Team Productivity
+From modern organization tools to user-friendly tagging of documents, managing small to large document requests is now a collaborative and iterative process.
+Unify Documents from multiple formats
+Uploading and unifying documents for ediscovery in different formats has never been easier. Easily import documents from email including their attachments along with any other documents already digitized.
+Streamline Collaboration with tagging and commenting
+Intuitive tagging and commenting allows your team to work together to achieve a single final version of the documents that can be submitted as a response. Other team members can transparently read and contribute to the conversation for a project. Documents that need further review can be assigned to other team members.
+Produce Bates-numbered PDFs for responses
+Once relevant documents are determined, respond to the document request by producing Bates-numbered PDFs. Customize the format and its location on the documents to reflect your legal practices. Then easily be able to find and search bates-numbered documents for reference in the future. The resulting documents are available to be securely downloaded so your legal team can easily response to the document request.
+Increase Accuracy by reducing human error
+Facilitating the management of large document requests between team members reduces human error. Reduced human error increases accuracy and lowers risks for requests with large number of documents. Plus, the solution includes logs of change history critical to determining reasons for changes.
+Keep One Copy of Documents with centralized storage
+Without a centralized web-based solution, it is difficult for your team to have one copy of the documents. The solution facilitates document collection of both physical and digital into a single authoritative source - increasing accuracy and collaboration.
+Identify Duplicate Documents saving time
+Finding and removing duplicate files is usually cumbersome and time consuming. Duplicate files are most common as email attachments. Advanced automation identifies duplicate files and tags them. These duplicate files are by default excluded from the review interface, but available to review since the solution always tracks all documents and associated files.
+Protect against Viruses with straight-forward security
+Collecting electronic documents is prone to viruses such as those hidden in emails or attachments. This makes handling files in their native format dangerous and increases risk without proper systems to ensure files are virus free. The solution scans all files prior to conversion to ensure both clients' data remains secure. Documents detected with viruses are flagged and quarantined to provide both safety and insight so all documents are always tracked.
+Use with Ease for all legal teams
+The modern solution focuses on helping legal teams achieve their goals. This client focus means your team members can do things that used to require a programmer. This allows your team to navigate lawsuits more easily, take on larger clients, increase profits, and spend more time forming winning arguments.
+Organize and Tag all documents
+Review documents to determine their relevancy, organize them and prepare the relevant documents to respond to subpoenas. Move documents into virtual folders with unlimited subfolders. In additional to virtual organization, tag documents with your own private tags or tag documents with tags shared with the rest of your team members.
+Work Smart with flexible workflows
+Adaptable workflow to support small law firms to large enterprise clients with in-house legal teams. The solution is highly flexible and customizable your teams' unique processes for eDiscovery. Specify team members' responsibility for each step and grant permissions to collect and/or review documents.
+Share documents securely with any entity
+In addition with your team being able to collaborate on the same documents, the solution enables collected documents to be shared securely with third-parties. Users, including external users, can comment on the collected documents ensuring that there will always be one authoritative source for the documents.
+Powerfully Search all documents
+When the collected documents are processed, they are converted into a PDF. During the conversion process, each document including attachments are indexed using all the content in the documents. This full-text search ensures that all relevant documents will be returned upon each search request ensuring accuracy.
+Try it Now for Free with simple signup
+Stop waiting for a sales representative from a competitor selling legacy software. Signup now to Legalverse for free and get started managing document requests in minutes, not days.
+Protect your Data from beginning to end
+Legalverse handles all data with the highest level of sensitivity. The solution is deployed in Amazon Web Services region for government services. This region was designed to host sensitive data, regulated workloads, and address the most stringent U.S. government security and compliance requirements. Project files are stored with encryption and logically separated.
+Archive Documents with data retention
+When the legal team is not using the documents, we will happily archive them and handle the data retention. We provide functionality to archive documents at reduced rates. At any time, with a click of a button, we can unarchive these documents allowing them to be managed and searched again.
+Scale with Growth at lower lifetime cost
+The solution is deployed with Amazon Web Services using new design pattern of serverless architecture. Serverless architecture enables the solution to automatically scale up and down based on your usage. All other solutions have higher cost of ownership due to fixed resource provisioning while serverless architecture provides a lower total cost and easily expands to accommodate growth.

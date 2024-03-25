@@ -1,0 +1,7 @@
+last_accessed_date: 1710327742.8212183
+file_name: 2024-0002-Policy-DDP_-SEBI_circular_on_Streamlining_of_Regulatory_Reporting_by_Designated_Depository_Participants_(DDPs)_and_Custodians
+file_type: pdf
+file_size: 784875
+creation_date: 1710325872.7772796
+last_modified_date: 1710325870.3601904
+last_accessed_date: 1710327742.8212183

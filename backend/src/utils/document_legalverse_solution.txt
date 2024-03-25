@@ -1,0 +1,28 @@
+Modern eDiscovery Solution
+We help enterprises respond to large document requests. The modern solution streamlines the process of responding to subpoenas - allowing legal teams to navigate lawsuits more easily, take on larger clients, increase profits, and spend more time forming winning arguments.
+Collect
+The solution allows you to easy upload and import any digital document with simply a drag and a click. Physical documents can be uploaded as well once they are digitized.
+- Email including Outlook, Exchange, and Gmail
+- Digital documents including contracts, agreements and spreadsheets
+- Physical documents
+Convert
+Documents are converted from a variety of formats ( Microsoft Office, Images, Email, etc) to a unified, viewable format (PDF). During the conversion process, duplicate documents are automatically tagged and removed saving your team time. In addition, the process ensure files are virus free - tagging and removing any file that could comprise the security of your data.
+The converted documents are analyzed using Optical Character Recognition (OCR) and indexed to allow them to be organized and searchable.
+Organize
+The web app provides an interface for you and your team to organize and tag documents that are relevant (responsive) to the legal matter. Move your documents into relevant folders and subfolders unique for each project. New converted documents are easily identified to ensure every document is organized for review.
+You and your team can create both private shared tags. Shared tags are only shared within your team. These custom tags enables you to flexibly organize documents based on your specific workflows.
+Search
+Powerful full-text search capabilities of all documents and email attachments puts information at your fingertips. With the stroke of a key, use search to code, tag, and review your documents to help you prepare your case all while saving time and reducing fatigue.
+Find information quickly, increase the effectiveness of your case building process, and find information instantly.
+Review
+If required, documents can be assigned by one team member to another for additional review. This streamlines collaboration between team members including accelerating the communication between paralegals and the project's lawyers.
+At any point, you can securely share converted documents with third-parties - streamlining collaboration with external enterprises as well.
+Prepare
+Relevant (responsive) documents can be prepared and distributed in a number of ways. A flexible interface provides custom bates numbering, watermarking, and logs of your findings as part of your export process. Choose the segment of documents you would like to export and come back to these at any time with the ability to search for bates numbers and specific documents
+Respond
+Use Legalverse to respond to requested parties. Once the documents are ready to be produced, the relevant documents are Bates numbered and securely exported. The production of the exported documents available to be downloaded and shared electronically - saving tons of paper and eliminating the few cents for a physical document to be produced with a Bates number.
+The solution allows you to configure the formatting of the Bates number on the produced documents. Specify the format as well as the location of the Bates number.
+Archive
+This cloud-based solution stores documents with Amazon's GovCloud in the United States. Amazon's cloud region designed to host sensitive data, regulated workloads, and address the most stringent U.S. government security and compliance requirements.
+After you are done using a project and its documents for legal response, the project and its documents can be archived for long-term storage until the matter needs further review. Appropriate data retention policies can be configured to ensure documents are automatically deleted after the statute of limitations or on a schedule of your choosing.
+Archived projects and their documents can be reactivated in the platform at any point in the future with a click of a button.

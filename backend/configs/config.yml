@@ -1,0 +1,35 @@
+documents_dir: "data/tax_files_dir" #"data/sample_dir" #"data/docs"
+save_dir: "data/temp_dir"
+parsed_documents_dir: "data/parsed_documents_dir"
+
+memory:
+  directory: "memory/chat_history_{}.csv"
+  num_entries: 2
+
+llama_index_cfg:
+  basic_rag:
+    index_save_dir: "data/indexes/basic_index"
+  pagewise_rag:
+    index_save_dir: "data/indexes/pagewise_index"
+  sentence_retrieval:
+    index_save_dir: "data/indexes/sentence_index"
+    sentence_window_size: 3
+    similarity_top_k: 6
+    rerank_top_n: 2
+  auto_merging_retrieval:
+    index_save_dir: "data/indexes/merging_index"
+    chunk_sizes: [2048, 512, 256]
+    chunk_overlap: 20
+    similarity_top_k: 6 # 12
+    rerank_top_n: 2
+  llama_eval_method: "auto_merging_retrieval" # sentence_retrieval # auto_merging_retrieval
+
+
+llm_cfg:
+  llm_type: "anthropic" # "google" # "openai"
+  gpt_model: "gpt-35-turbo-16k"
+  gemini_model: "google/gemini-pro"
+  anthropic_model: "claude-3-sonnet-20240229" # "claude-3-opus-20240229" 
+  embed_model_name: "BAAI/bge-base-en-v1.5" # "bge-small-en-v1.5"
+  rerank_model: "BAAI/bge-reranker-base"
+  temperature: 0.0

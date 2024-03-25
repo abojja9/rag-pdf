@@ -1,0 +1,33 @@
+Company
+Legalverse is the next generation of electronic document management for legal teams. Starting with the Native corporations in Alaska (ALNC) and their vast differences in perspectives and needs, we realized the opportunity to provide a solution to them and their legal teams to more efficiently conduct the document discovery and document management processes.
+Legalverse provides Software as a Service (SaaS) for enterprises to manage all of the complexities with documents for current lawsuits and prepare for any future litigation. Utilizing cloudscale technology, we can adjust our capacity for the needs of our clients instantly. This allows us to offer these powerful tools to law firms of all sizes.
+We are Legalverse. We are building a platform for the modern law team.
+Contact Us
+Phone
+Address
+Legalverse
+721 Depot Dr.
+Anchorage, AK 99501
+Team
+We are a team of passionate operators and engineers building software for legal teams in Alaska and beyond.
+Jeff Levin
+Founder and CEO
+Anchorage, AK
+Jeff Levin is a Software Engineer born and raised in Anchorage, Alaska. He has worked in a variety of rolls from running IT for Alaska Native Corporations and non-profits to founding software consulting shop, Levinology Labs. With a background in Management Information Systems, he has always had an interest in the way that organizations work and communicate. In 2018 he co-founded the Alaska Developers Alliance and oversaw fundraising through and growth of the group to 400+ members and multiple reorganizations.
+While wrangling documents for contracts and clients at Levinology Labs, he started building tools in-house to ease the pain of preparing, searching, and organizing documents in the legal space and has been on a tear realizing his dream of building a rockstar team to power Legalverse.
+Sarah Levin
+Director of Operations
+Las Vegas, NV
+For the past 10 years Sarah has been a project manager for logistics on some of the largest events in North America. She specializes in bringing creative visions into reality having worked with nearly every industry imaginable from annual corporate tech events to music festivals to Disney fan expos and budgets upwards of $40million. From Anchorage, Alaska, she's well acquainted with small business and leverages her BS in Hospitality, Meetings, and Events from UNLV as a logistics project management expert.
+History
+Over the last 2 years, the founders have developed document management solutions catered to the unique legal needs of Alaska Native Corporations. Realizing the opportunity that there are other ANC’s that have legal teams with this same need, as well as law firms small to large, Legalverse leverages their experiencing building eDiscovery solutions into a scalable business.
+- In 2017, built solution for legal team of a large Alaska Native Corporation to manage documents to respond to subpoena.
+- Solution increased document processing capacity by three times - saving them over $50,000 and innumerable amounts of time.
+- In the following months, created similar solutions for the legal teams of two other ANC's to respond to subpoenas.
+- During spring of 2018, began building solution into Software as a Service business in order to help more legal teams at scale - lowering the barrier for the legal teams to implement and use state-of-the-art technology.
+- In December 2018, launched web-based service.
+- In January 2019, built a Free PDF Redaction Tool to help people securely redact sensitive information from documents.
+- In April 2019, company expands their development team and onboards several more clients.
+- In December 2019, company hires its first intern.
+- In April 2020, company begins rebuilding to offer faster and more accurate document redaction.
+- In August 2020, company brings on Sarah Levin as our new Director of Operations.

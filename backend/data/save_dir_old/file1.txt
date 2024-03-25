@@ -1,0 +1,127 @@
+[
+    Document(
+        id_='d94ac853-a948-4201-b459-ddd19f3f35a1',
+        embedding=None,
+        metadata={
+            'title': 
+'2024-0002-Policy-DDP_-SEBI_circular_on_Streamlining_of_Regulatory_Reporti
+ng_by_Designated_Depository_Participants_(DDPs)_and_Custodians',
+            'file_path': 
+'/Users/abhishekbojja/Documents/GitHub/rag-pdf/backend/data/sample_dir/202
+4-0002-Policy-DDP_-SEBI_circular_on_Streamlining_of_Regulatory_Reporting_b
+y_Designated_Depository_Participants_(DDPs)_and_Custodians.pdf'
+        },
+        excluded_embed_metadata_keys=[
+            'file_name',
+            'file_type',
+            'file_size',
+            'creation_date',
+            'last_modified_date',
+            'last_accessed_date'
+        ],
+        excluded_llm_metadata_keys=[
+            'file_name',
+            'file_type',
+            'file_size',
+            'creation_date',
+            'last_modified_date',
+            'last_accessed_date'
+        ],
+        relationships={},
+        text='## NSDL Participant Services Circular\n\nCircular No.: 
+NSDL/POLICY/DDP/2024/0002\n\nFebruary 01, 2024\n\nSubject: SEBI circular 
+on Streamlining of Regulatory Reporting by Designated Depository 
+Participants (DDPs) and Custodians.\n\nAttention of Participants who are 
+registered with SEBI as Designated Depository Participants (DDPs) / 
+Custodian of Securities (Custodians) is invited to SEBI Circular no. 
+SEBI/HO/AFD/AFD-SEC-2/P/CIR/2024/8 dated January 25, 2024 (copy enclosed) 
+in respect of ‘Streamlining of Regulatory Reporting by Designated 
+Depository Participants (DDPs) and Custodians’.\n\nDDPs/Custodians are 
+requested to take note of the same and ensure compliance.\n\nFor and on 
+behalf of National Securities Depository Limited\n\nAROCKIARAJ Date: 
+2024.02.01 16:58:41 +05\'30\'\n\nArockiaraj\n\nManager\n\nEnclosure: 
+One\n\n|Particulars|Deadline|Manner of 
+sending|Reference|\n|---|---|---|---|\n|Investor Grievance Report 
+(Monthly)|By 10th of the following month|Through e-PASS|1. Para 20 of NSDL
+Master Circular for Participants on ‘Grievance Redressal’ chapter.|\n| | |
+|2. Circular No.: NSDL/POLICY/2023/0161 dated November 13, 
+2023|\n\nNational Securities Depository Limited\n\n4th Floor, ‘A’ Wing, 
+Trade World, Kamala Mills Compound, Senapati Bapat Marg, Lower Parel, 
+Mumbai – 400 013, Maharashtra, India\n\nTel.: 91-22-2499 4200 | Fax: 
+91-22-2497 6351 | email: info@nsdl.com | Web: www.nsdl.co.in\n\nCorporate 
+Identity Number: U74120MH2012PLC230380\n---\n## Securities and Exchange 
+Board of India\n\n## CIRCULAR\n\nSEBI/HO/AFD/ AFD-SEC-2/P/CIR/2024/8 
+January 25, 2024\n\nTo\n\nAll Designated Depository Participants (DDPs), 
+All Custodians\n\nSir/ Madam,\n\nSub: Streamlining of Regulatory Reporting
+by Designated Depository Participants (DDPs) and Custodians\n\n1. SEBI has
+reviewed various reports submitted by DDPs and Custodians in order to have
+uniform compliance standards, for ease of compliance reporting and for 
+regulatory purposes.\n2. In terms of Regulation 31(4) of SEBI (Foreign 
+Portfolio Investors) Regulations, 2019, and Regulation 20 of the SEBI 
+(Custodian) Regulations, 1996 read with the provisions of Master Circular 
+for Custodians dated April 27, 2023 (referred as Master Circular for 
+Custodians) all DDPs and Custodians shall submit the reports specified by 
+the Board from time to time.\n3. Subsequent to the review, it has been 
+decided that the following reports shall henceforth be submitted on the 
+SEBI Intermediary Portal (SI Portal) by DDPs and 
+Custodians:\n\n|S.No|Reporting 
+Requirements|Periodicity|\n|---|---|---|\n|I.|Annual audit reports on 
+internal controls of DDPs under Regulation 31(6) of SEBI (Foreign 
+Portfolio Investors) Regulations, 2019|Annual|\n|II.|Annual review report 
+of the systems, procedures & controls of the Custodian by an expert under 
+Regulation 14 (2) of Custodian Regulations read with Clause 8 of Chapter 
+IV of the Master Circular for Custodians.|Annual|\n|III.|Audited Annual 
+report along with Net worth certificate under Clause 7 of Chapter IV of 
+the Master Circular for Custodians|Annual|\n|IV.|AI / ML report under 
+Clause 9 (v) of Chapter IV of the Master Circular for Custodians|Half 
+yearly|\n|V.|Custodian Quarterly report under Clause 6 of Chapter IV of 
+the Master Circular for Custodians.|Quarterly|\n|VI.|FPI General 
+Information to assess the eligibility under Regulation 4 of FPI 
+Regulations, 2019| |\n\nPage 1 of 3\n---\n|Reporting 
+Requirements|Securities and Exchange Board of 
+India|Periodicity|\n|---|---|---|\n|VII. NRI/OCI/RI requirements under 
+Clause 1(ii) of Part A of Master Circular for FPIs and DDPs dated December
+19, 2022| | |\n|VIII. FPIs non-compliant with Legal entity identifier 
+requirements under circular dated July 27, 2023| |Quarterly|\n|IX. FPIs 
+who have not submitted granular BO details under circular dated August 24,
+2023| | |\n|X. Details of FPIs granted exemption under circular dated 
+August 24, 2023| | |\n|Change in material information where there is a 
+delay of 6 months as provided under Clause 14(iii) of Part A of the Master
+Circular for FPIs and DDPs| |Monthly|\n|XII. Report of short sales by FPIs
+under Clause 4 of Chapter IV of the Master Circular for Custodians.| | 
+|\n\n4. The reporting formats which were finalised in consultation with 
+the pilot Custodians and Designated Depository Participants Standard 
+Setting Forum (CDSSF) shall be shared by CDSSF with all the DDPs and 
+Custodians, who shall disclose the same on their websites.\n\n5. Reporting
+by DDPs under Clause 14(iii) of Part A of Master Circular for FPIs and 
+DDPs shall be on monthly basis on SI portal. However, the DDPs shall 
+continue to submit delay in intimation of certain material changes 
+(excluding change in Name, Change in Senior Managing Official and Change 
+in Beneficial owner not leading to change in Investor Grouping), within 2 
+working days from the receipt of intimation by FPI by email to 
+misc-fpi@sebi.gov.in.\n\nTimelines for submission of reports\n\n6. These 
+reports shall be submitted by DDPs and Custodians on the SI portal on 
+monthly, quarterly, half yearly and annual basis as specified. The monthly
+and quarterly reports shall be uploaded within 15 calendar days from the 
+end of each month and quarter, respectively. The other reports shall be 
+uploaded as per timelines specified in the Master Circular.\n\n7. The mode
+and periodicity of the provisions of circulars as mentioned in para 2 
+stand modified to the extent specified herein.\n\n8. The provisions of 
+this Circular shall come into effect from month ending February - 2024 
+onwards.\n\n9. This Circular is issued in exercise of powers conferred 
+under Section 11(1) of the Securities and Exchange Board of India Act, 
+1992, to protect the interest of investors in securities and to promote 
+the development of, and to regulate the securities market.\n\nPage 2 of 
+3\n---\n5331HRaz wfaafa 3r als\n\nSecurities and Exchange Board of 
+India\n\n10. This Circular is available on SEBI website at www.sebi.gov.in
+under the categories "Legal Framework - Circulars" and "Info for Foreign 
+Portfolio Investors".\n\nYours faithfully,\n\nTreasa Kuriala\n\nDeputy 
+General Manager\n\nTel no.: +91-22-26449228\n\ntreasak@sebi.gov.in\n\nPage
+3 of 3',
+        start_char_idx=None,
+        end_char_idx=None,
+        text_template='{metadata_str}\n\n{content}',
+        metadata_template='{key}: {value}',
+        metadata_seperator='\n'
+    )
+]
